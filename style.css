@@ -1,0 +1,24 @@
+#bg{
+    background-image:url("https://images8.alphacoders.com/468/468739.jpg");
+    height:100vh;
+    width:100vw;
+    background-size:cover;
+    color:white;
+    text-align: center;
+}
+
+.body{
+    background-color: black; 
+}
+
+#bg h1{
+    margin-top: 20px;
+}
+
+.planetimg{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+}
